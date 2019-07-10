@@ -1,5 +1,6 @@
 
 # Specification 'tt-module-ruby-ext-1'
 
-This is the repository for tt-module-ruby-ext-1. You're welcome to contribute! Let's make the Web rock our socks
-off!
+This repository is intended to be used to develop a TTML Extension Module that addresses the requirements discussed by https://github.com/w3c/tt-reqs/issues/12, as well as other, new, ruby or related enhancements, such as:
+
+- https://github.com/w3c/ttml2/issues/1127#issuecomment-509921787
